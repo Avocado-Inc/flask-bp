@@ -6,7 +6,7 @@ from app.models.database import engine, Base
 
 def create_app() -> Flask:
     """
-    Create flast app instance
+    Create flask app instance
     
     """
 
